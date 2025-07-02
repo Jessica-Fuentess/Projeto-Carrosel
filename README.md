@@ -4,6 +4,12 @@ Projeto front-end inspirado no universo da série *House of the Dragon* (Game of
 
 ---
 
+## 🌐 Demonstração
+
+🔗 [Acesse o site](https://jessica-fuentess.github.io/Projeto-Carrosel/)
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5

@@ -24,6 +24,17 @@ Projeto front-end inspirado no universo da série *House of the Dragon* (Game of
 
 Criar uma interface web imersiva e interativa onde o usuário pode navegar entre diferentes dragões, visualizando a imagem correspondente e uma descrição detalhada sobre cada um deles.
 
+- 📸 A imagem de fundo muda dinamicamente para o dragão correspondente.
+- 📝 O conteúdo textual (nome e descrição) também é atualizado.
+- 👀 O usuário pode conhecer 7 dragões icônicos da série, como:
+  - **Balerion**
+  - **Syrax**
+  - **Arrax**
+  - **Caraxes**
+  - **Seasmoke**
+  - **Vermax**
+  - **Vhagar**
+
 ---
 
 ## 🧩 Funcionalidades

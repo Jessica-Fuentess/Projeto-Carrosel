@@ -1,6 +1,6 @@
 # 🐉 House of the Dragon - Carrossel Interativo de Dragões
 
-Projeto front-end inspirado no universo da série *House of the Dragon* (Game of Thrones), que apresenta um carrossel interativo com imagens e informações de dragões icônicos da Casa Targaryen.
+Este projeto consiste em uma **interface web interativa**, inspirada no universo da série *House of the Dragon*, da franquia *Game of Thrones*. Ele apresenta um **carrossel de dragões Targaryen** com **transições suaves** de imagem e conteúdo, proporcionando uma **experiência visual envolvente e informativa** para os fãs da série e usuários em geral.
 
 ---
 

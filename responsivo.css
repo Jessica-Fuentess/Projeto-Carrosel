@@ -1,0 +1,29 @@
+@media screen and (max-width: 768px) {
+  .content {
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .info h1 {
+    margin-bottom: 30px;
+    font-size: 28px;
+  }
+
+  .info .description {
+    width: 100%;
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .carousel-buttons {
+    margin-top: 20px;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .carousel-buttons .button {
+    width: 12px;
+    height: 12px;
+  }
+}

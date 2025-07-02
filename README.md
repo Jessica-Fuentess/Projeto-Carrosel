@@ -10,16 +10,6 @@ Este projeto consiste em uma **interface web interativa**, inspirada no universo
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-
-- HTML5
-- CSS3 (incluindo responsividade e animações)
-- JavaScript (manipulação dinâmica do DOM)
-- Google Fonts (Poppins)
-- Fonte personalizada estilo *Game of Thrones* (GOT.ttf)
-
----
-
 ## 🎯 Objetivo
 
 Criar uma interface web imersiva e interativa onde o usuário pode navegar entre diferentes dragões, visualizando a imagem correspondente e uma descrição detalhada sobre cada um deles.
@@ -39,23 +29,35 @@ Criar uma interface web imersiva e interativa onde o usuário pode navegar entre
 
 ## 🧩 Funcionalidades
 
-- Carrossel manual com botões circulares para navegação.
-- Sincronização entre imagem de fundo e texto descritivo.
-- Animações suaves na troca de imagens.
-- Gradiente escuro sobreposto para melhor legibilidade.
-- Layout responsivo que adapta o conteúdo para dispositivos móveis (até 768px).
+🔥 Interface envolvente com atmosfera inspirada em Westeros  
+📸 Imagens em tela cheia com transição suave  
+📚 Descrição de cada dragão com contexto histórico da série  
+🧭 Navegação intuitiva com botões de seleção  
+🎞️ Animações suaves para transição de imagens (`keyframes`)  
+🎨 Tipografia personalizada com fonte temática de Game of Thrones  
+🧠 JavaScript puro para controlar interações e lógica do carrossel
 
 ---
 
-## 🎨 Design e Responsividade
+## 🧾 Descrição Técnica
 
-- Visual fullscreen com foco na experiência visual.
-- Tipografia com hierarquia clara: títulos estilizados e textos legíveis.
-- Ajustes específicos para telas menores:
-  - Centralização do conteúdo.
-  - Redução do tamanho das fontes e espaçamentos.
-  - Botões de navegação menores e melhor posicionamento.
-  - Textos com largura completa para facilitar a leitura.
+A interface foi desenvolvida com:
+
+- HTML semântico para estruturação
+- CSS moderno para layout e animações
+- JavaScript (Vanilla) para manipulação DOM e interações dinâmicas
+- Google Fonts (Poppins) + fonte personalizada (GOT.ttf) para ambientação visual
+- Estrutura modular e código comentado para facilitar entendimento e manutenção
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+✅ **HTML5** – Estrutura semântica da página  
+✅ **CSS3** – Estilização, animações e layout responsivo  
+✅ **JavaScript** – Lógica do carrossel e manipulação DOM  
+✅ **Google Fonts** – Tipografia moderna  
+✅ **Fontes personalizadas** – Imersão temática com fonte "GOT"
 
 ---
 

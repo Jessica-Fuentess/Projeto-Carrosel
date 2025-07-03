@@ -72,16 +72,13 @@ A interface foi desenvolvida com:
 
 ## 📁 Estrutura do Projeto
 
-├── index.html # Estrutura HTML do carrossel
-
-├── style.css # Estilos e responsividade
-
-├── script.js # Script para controle do carrossel
-
-├── Imagens/ # Pasta com imagens dos dragões
-
-└── Fontes/ # Fonte personalizada GOT.ttf
-
+```bash
+├── index.html      # Estrutura HTML do carrossel
+├── style.css       # Estilos e responsividade
+├── script.js       # Script para controle do carrossel
+├── Imagens/        # Pasta com imagens dos dragões
+└── Fontes/         # Fonte personalizada GOT.ttf
+```
 
 ---
 
